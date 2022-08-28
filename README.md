@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi! I am Marcel, as you probably already figured out. Programmer, gamer and movie watcher. I am a Windows and Linux enthusiast. I love consoles, emulation and PC gaming.
 
-<!--
-**oyMarcel/oyMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently doing:
+- Rewriting [oymarcel.tk](https://oymarcel.tk)
+- Working at [Iconic Client](https://iconicclient.tk)
 
-Here are some ideas to get you started:
+### I can handle the following languages:
+ - Java(pending degree)
+ - Pyhton(Learning)
+ - C#(very basic knowladge)
+ - C++(very basic knowladge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My currently owned consoles:
+- Playstation - 3x
+- Playstation one - 1x
+- Playstation 2 - 3x
+- Playstation 3 - 1x
+- PSP - 2x(one is broken)
+- Nintendo DS - 5x
+- Nintendo Wii - 1x
+- Nintendo GameCube - 1x(untested)
+- Nintendo 64 - 1x(untested)
+- Nintendo GameBoy - 2x
+- Sega Master System 2 - 1x
+
+
+### PC Game Library:
+- Brawlhalla
+- Team Fortress 2
+- CS:GO
+- 60 Seconds
+- FallGuys
+- Minecraft
+- Hearts of Iron IV
+- Far Cry
+- Rouge Company
+- CS 1.6
+- NFS Underground 2
+- FNAF Security Breach
+- Half Life
+- Turmoil
+- Grand Theft Auto V
+- Grand Theft Auto IV
+- Stray
+- Watch Dogs 2
+- Chicken Invaders Universe
+
+buy monsoon @ [monsoon.wtf](https://monsoon.wtf)
