@@ -8,7 +8,7 @@
 
 ### I can handle the following languages:
  - Java(pending degree)
- - Pyhton(Learning)
+ - Python(Learning)
  - C#(very basic knowladge)
  - C++(very basic knowladge)
 
