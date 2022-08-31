@@ -1,4 +1,4 @@
-### Hi! I am Marcel, as you probably already figured out. Programmer, gamer and movie watcher. I am a Windows and Linux enthusiast. I love consoles, emulation and PC gaming.
+### Hi! I am Marcel, a 15 year old developer, gamer and movie watcher. I am also a Windows and Linux enthusiast. I love consoles, emulation and PC gaming.
 
 ![oyMarcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oymarcel&show_icons=true&theme=dark)
 
