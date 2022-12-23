@@ -27,25 +27,6 @@
 - Sega Master System 2 - 1x
 
 
-### PC Game Library:
-- Brawlhalla
-- Team Fortress 2
-- CS:GO
-- 60 Seconds
-- FallGuys
-- Minecraft
-- Hearts of Iron IV
-- Far Cry
-- Rouge Company
-- CS 1.6
-- NFS Underground 2
-- FNAF Security Breach
-- Half Life
-- Turmoil
-- Grand Theft Auto V
-- Grand Theft Auto IV
-- Stray
-- Watch Dogs 2
-- Chicken Invaders Universe
+### PC Game Library: @ [oymarcel.tk](https://oymarcel.tk/content/games)
 
 buy monsoon @ [monsoon.wtf](https://monsoon.wtf)
